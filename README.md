@@ -1,7 +1,5 @@
 # Blog Article Page Using Semantic HTML
 
-## Documentation
-
 ---
 
 ## 1. Project Overview
@@ -113,4 +111,4 @@ Contains author-related information, including:
 
 ### Link
 
-- The <a> tag is used to create an external link
+- The `<a>` tag is used to create an external link
