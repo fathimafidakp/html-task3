@@ -40,19 +40,19 @@ The webpage contains the following main parts:
 
 ## 5. Explanation of HTML Elements Used
 
-### 5.1 <!DOCTYPE html>
+### 5.1 '<!DOCTYPE html>'
 
 Declares that the document is written in *HTML5*.
 
 ---
 
-### 5.2 <html lang="en">
+### 5.2 '<html lang="en">'
 
 Specifies that the language of the webpage is *English*.
 
 ---
 
-### 5.3 <head>
+### 5.3 '<head>'
 
 Contains page information such as:
 
@@ -61,7 +61,7 @@ Contains page information such as:
 
 ---
 
-### 5.4 <header>
+### 5.4 '<header>'
 
 Used twice in the page:
 
@@ -70,14 +70,14 @@ Used twice in the page:
 
 ---
 
-### 5.5 <article>
+### 5.5 '<article>'
 
 - Contains the main blog content  
 - Represents an independent blog article  
 
 ---
 
-### 5.6 <section>
+### 5.6 '<section>'
 
 - Divides the article into subtopics  
 - Used for:
@@ -86,7 +86,7 @@ Used twice in the page:
 
 ---
 
-### 5.7 <aside>
+### 5.7 '<aside>'
 
 Contains author-related information, including:
 
@@ -97,7 +97,7 @@ Contains author-related information, including:
 
 ---
 
-### 5.8 <footer>
+### 5.8 '<footer>'
 
 - Displays copyright information  
 - Appears at the bottom of the webpage  
