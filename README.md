@@ -106,7 +106,7 @@ Contains author-related information, including:
 
 ### Image
 
-- Displays the author image using the <img> tag  
+- Displays the author image using the `<img>` tag  
 - The alt attribute improves accessibility  
 
 ### Link
