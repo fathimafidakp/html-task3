@@ -1,7 +1,5 @@
 # Blog Article Page Using Semantic HTML
 
-## Documentation
-
 ---
 
 ## 1. Project Overview
@@ -108,9 +106,9 @@ Contains author-related information, including:
 
 ### Image
 
-- Displays the author image using the <img> tag  
+- Displays the author image using the `<img>` tag  
 - The alt attribute improves accessibility  
 
 ### Link
 
-- The <a> tag is used to create an external link
+- The `<a>` tag is used to create an external link
